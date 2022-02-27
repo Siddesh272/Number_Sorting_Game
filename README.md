@@ -1,5 +1,5 @@
 # Number_Sorting_Game
-# Number-Sort-Game
+
 A Number Sorting game developed using Java Swing and Sqlite Database in Eclipse IDE
 
 
